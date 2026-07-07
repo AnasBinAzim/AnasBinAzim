@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Anas Bin Azim</h1>
-<h3 align="center">A passionate AI/ML Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasbinazim&label=Profile%20views&color=0e75b6&style=flat" alt="anasbinazim" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasbinazim" alt="anasbinazim" /></a> </p>
 
-- 🔭 I’m currently working on **World Robot Olympiad Project**
+-  I’m currently working on **World Robot Olympiad Project**
 
-- 🌱 I’m currently learning **Excel, Kotlin**
+-  I’m currently learning ** Kotlin**
 
-- 👯 I’m looking to collaborate on **Robotics and AI**
+-  I’m looking to collaborate on **Robotics and AI**
 
-- 📫 How to reach me **anas.azim.71@gmail.com**
+-  How to reach me **anas.azim.71@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
